@@ -20,7 +20,7 @@ This script monitors and displays various server statistics including CPU usage,
 Clone this repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Mikhan-TMP/devops_roadmap.git
 cd devops_roadmap
 ```
 
